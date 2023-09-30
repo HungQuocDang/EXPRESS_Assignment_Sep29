@@ -15,11 +15,11 @@ Then open the browser at http://localhost:3002/, user will be able to interact w
 
 Demo: 
 
-Github link: 
+Github link: https://github.com/HungQuocDang/EXPRESS_Assignment_Sep29
 
-Deloyed link:
+Deloyed link:  https://hungquocdang.github.io/EXPRESS_Assignment_Sep29/
 
-Heroku:
+Heroku:  https://xpressnote-taker-2a438e8b0932.herokuapp.com/
 
 
 
