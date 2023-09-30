@@ -13,7 +13,7 @@ node server.js
 
 Then open the browser at http://localhost:3002/, user will be able to interact with the page.
 
-Demo: 
+Demo:   https://drive.google.com/file/d/12oF0U-5ueESi1QdmdCu_JUjlUGbc2abr/view
 
 Github link: https://github.com/HungQuocDang/EXPRESS_Assignment_Sep29
 
