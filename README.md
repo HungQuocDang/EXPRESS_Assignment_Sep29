@@ -22,5 +22,6 @@ Deloyed link:
 Heroku:
 
 
+![Note Taker](https://github.com/HungQuocDang/EXPRESS_Assignment_Sep29/assets/129162404/a2e9706a-1352-4c7a-bb46-031919cb39c0)
 
  ![Alt text](<Note Taker.png>)
